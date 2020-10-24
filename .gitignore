@@ -1,0 +1,7 @@
+Runner/.vs/
+Runner/ProblemInterfaces/obj/
+Runner/Runner/obj/
+Runner/SequenceAnalysis/obj/
+Runner/SequenceAnalysisTest/obj/
+Runner/SumOfMultiple/obj/
+Runner/SumOfMultipleTest/obj/
